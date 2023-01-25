@@ -13,6 +13,7 @@ This is a App that display random generated advices based on the [Advice Slip JS
 - CSS
 - Flexbox
 - [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](thttps://tailwindcss.com/) - for styling
 
@@ -22,7 +23,7 @@ During the process of building the app I learned how to use Next.js and Tailwind
 
 ### Continued development
 
-I will continue learning Next.js and Tailwind, particularly the animations for components and psedo classes uses.
+I will continue learning Next.js and Tailwind, particularly the animations for components and psedo classes uses. I will continue to integrate TypeScript to my projects!
 
 ### Useful resources
 
